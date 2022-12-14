@@ -112,3 +112,4 @@ def get_orders_amount() -> int:
 print(get_orders_amount())
 
 print('HelloWorld')
+print('HelloWorld123')
